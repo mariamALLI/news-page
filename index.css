@@ -234,11 +234,6 @@ ul li {
     height: 36vh;
   }
 
-  .left-col {
-    /* flex-basis: 60%; */
-    /* flex-grow: 1; */
-  }
-
   .right-col {
     height: fit-content;
     margin-top: 7.5em;
